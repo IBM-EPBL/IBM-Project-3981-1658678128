@@ -1,5 +1,3 @@
-# Assignment 1
-
 ## Making a smart home using IOT devices
 
 - We made a device that will turn the lights on if the surrounding is dark.
