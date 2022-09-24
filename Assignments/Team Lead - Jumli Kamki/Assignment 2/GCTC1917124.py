@@ -1,7 +1,6 @@
 import random
 
-temp = randm.random()
-temp = temp*100
-
-while(temp>=57)
-    print("There's a fire ")
+while(True):
+    temp = random.random()
+    if(temp*100>57):
+        print("There's a fire!!!")
