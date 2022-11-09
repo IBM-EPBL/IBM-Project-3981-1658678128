@@ -1,2 +1,2 @@
 ## App link:
-[korom-pani](korom-pani.netlify.app)
+[korom-pani](https://korom-pani.netlify.app)
